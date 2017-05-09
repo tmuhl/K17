@@ -2,29 +2,29 @@
 <record_update table="sys_properties">
     <sys_properties action="INSERT_OR_UPDATE">
         <choices/>
-        <description>What level of logging verbosity should this app use?</description>
+        <description>Who wrote this awesome lab?</description>
         <ignore_cache>false</ignore_cache>
         <is_private>false</is_private>
-        <name>x_snc_k17.logging.verbosity</name>
+        <name>x_snc_k17.lab.author</name>
         <read_roles/>
-        <suffix>logging.verbosity</suffix>
+        <suffix>lab.author</suffix>
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-05-09 18:20:25</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>3021677e41a232007f441dee24ef8286</sys_id>
+        <sys_created_on>2017-05-09 19:08:21</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d52f23b241e232007f441dee24ef826f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_k17.logging.verbosity</sys_name>
+        <sys_name>x_snc_k17.lab.author</sys_name>
         <sys_package display_value="K17" source="x_snc_k17">fade5bba41a232007f441dee24ef8233</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K17">fade5bba41a232007f441dee24ef8233</sys_scope>
-        <sys_update_name>sys_properties_3021677e41a232007f441dee24ef8286</sys_update_name>
+        <sys_update_name>sys_properties_d52f23b241e232007f441dee24ef826f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 18:20:25</sys_updated_on>
+        <sys_updated_on>2017-05-09 19:08:21</sys_updated_on>
         <type>string</type>
-        <value>ingo</value>
+        <value>Trevor Muhl</value>
         <write_roles/>
     </sys_properties>
-    <sys_translated_text action="delete_multiple" query="documentkey=3021677e41a232007f441dee24ef8286"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=d52f23b241e232007f441dee24ef826f"/>
 </record_update>
